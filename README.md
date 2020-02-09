@@ -1,6 +1,7 @@
 # Productor-Consumidor-completo-mediante-paso-de-mesajes-MPI
 Para ejecutar:
-    mpirun -np 14 ./prodcons_all
+    mpirun -np "numero_de_procesos" ./prodcons_all
+    ejemplo: mpirun -np 14 ./prodcons_all
 
 Alberto Robles Hernandez
 
